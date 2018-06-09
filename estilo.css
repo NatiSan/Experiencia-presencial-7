@@ -3,5 +3,22 @@
 }
 .fondo-jumbotron{
 	background-image: url("images/bg2.jpg");
-	max-width: 
+	color: white;
+}
+.container{padding: 10;
+
+}
+
+.border-card{
+	border: silver solid 7px;
+	padding: 0;
+}
+.logo{
+	width: 35px
+}
+.border-b{
+	border: grey solid 1px;
+}
+.letra-celeste{
+	color: #11b2db;
 }
